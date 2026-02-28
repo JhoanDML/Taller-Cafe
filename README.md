@@ -1,27 +1,27 @@
-#  Simple Coffee Listing
+ SIMPLE COOFFE LISTING
 
 Proyecto frontend desarrollado con **React + Vite**, basado en el challenge de **devChallenges**, que consume una API externa y muestra un catálogo de cafés con filtros diseño responsive.
 
----
 
-## Integrantes
+
+INTEGRANTES:
+
 Jhoan David Malua Luna
 
 
 
-##  Capturas
+CAPTURAS
 
-### 💻 Vista Desktop
+VISTA COMPUTADOR
 
 ![Desktop Preview](./screenshots/compu.png)
 
-### 📱 Vista Mobile
+VISTA CELULAR
 
 ![Mobile Preview](./screenshots/celu.png)
 
 
-
-## 🛠 Tecnologías
+TECNOLOGIAS
 
 -  React
 -  Vite
@@ -29,9 +29,8 @@ Jhoan David Malua Luna
 -  Fetch API
 -  Arquitectura por componentes
 
----
 
-## Instalacion y Ejecucion
+INSTALACION Y EJECUCION
 
 1. Clonar el repositorio localmente
 - https://github.com/JhoanDML/Taller-Cafe
