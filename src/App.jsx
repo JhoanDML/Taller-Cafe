@@ -10,8 +10,7 @@ function App() {
   const [error, setError] = useState(null)
 
   useEffect(() => {
-    fetch(
-    )
+    fetch('/data.json')   // 👈 aquí estaba el problema
       .then(res => {
         if (!res.ok) throw new Error('Error loading data')
         return res.json()
